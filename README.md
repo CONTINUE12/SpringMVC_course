@@ -1,23 +1,16 @@
 # SpringMVC_course
 
 #### 介绍
+
 Java技术栈之SpringMVC学习
 
 #### 软件架构
-软件架构说明
 
+做web开发的框架，实际是spring框架中的一个模块
 
-#### 安装教程
+#### 思维导图
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
+![image](https://github.com/CONTINUE12/SpringMVC_course/blob/master/11.png)
 
 #### 参与贡献
 
@@ -25,7 +18,6 @@ Java技术栈之SpringMVC学习
 2.  新建 Feat_xxx 分支
 3.  提交代码
 4.  新建 Pull Request
-
 
 #### 特技
 
